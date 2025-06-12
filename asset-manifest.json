@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jdai-dapp/static/css/main.193dbf48.css",
+    "main.js": "/jdai-dapp/static/js/main.b2a5060d.js",
+    "index.html": "/jdai-dapp/index.html",
+    "main.193dbf48.css.map": "/jdai-dapp/static/css/main.193dbf48.css.map",
+    "main.b2a5060d.js.map": "/jdai-dapp/static/js/main.b2a5060d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193dbf48.css",
+    "static/js/main.b2a5060d.js"
+  ]
+}
