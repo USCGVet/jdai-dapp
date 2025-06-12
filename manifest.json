@@ -1,6 +1,7 @@
-c{
+{
   "short_name": "JDAI DApp",
   "name": "JDAI Gold-Pegged Stablecoin",
+  "description": "Decentralized gold-pegged stablecoin protocol on PulseChain",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +11,7 @@ c{
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1a1a1a",
-  "background_color": "#0a0a0a"
+  "theme_color": "#d4af37",
+  "background_color": "#0a0a0a",
+  "orientation": "portrait-primary"
 }
