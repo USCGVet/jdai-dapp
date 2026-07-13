@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jdai-dapp/static/css/main.193dbf48.css",
-    "main.js": "/jdai-dapp/static/js/main.d020fafd.js",
+    "main.js": "/jdai-dapp/static/js/main.8f534193.js",
     "index.html": "/jdai-dapp/index.html",
     "main.193dbf48.css.map": "/jdai-dapp/static/css/main.193dbf48.css.map",
-    "main.d020fafd.js.map": "/jdai-dapp/static/js/main.d020fafd.js.map"
+    "main.8f534193.js.map": "/jdai-dapp/static/js/main.8f534193.js.map"
   },
   "entrypoints": [
     "static/css/main.193dbf48.css",
-    "static/js/main.d020fafd.js"
+    "static/js/main.8f534193.js"
   ]
 }
